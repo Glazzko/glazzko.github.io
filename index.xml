@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puslapis</title>
+    
+    
+    
+    <link>https://glazzko.github.io/</link>
+    <description>Recent content on Puslapis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2023 20:34:51 +0300</lastBuildDate>
+    
+	<atom:link href="https://glazzko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turinys</title>
+      <link>https://glazzko.github.io/posts/turinys/</link>
+      <pubDate>Wed, 17 May 2023 20:34:51 +0300</pubDate>
+      
+      <guid>https://glazzko.github.io/posts/turinys/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Čia yra puslapio turinys.
+print(&amp;ldquo;Tekstas testas ir t.t&amp;rdquo;)
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
